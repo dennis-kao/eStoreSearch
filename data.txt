@@ -1,0 +1,74 @@
+book
+000025
+Absolute Java
+199.95
+2015
+Walter Savitch, Kenrich Mock
+Pearson
+electronics
+000107
+MacBook Air 11\ Intel Dual-Core i5 1.6GHz
+1099.99
+2013
+Apple Inc.
+electronics
+555555
+trgnfj
+0
+1001
+
+book
+999999
+dennis
+0
+1290
+
+
+book
+000999
+Dennis Kao
+0
+1902
+
+
+book
+100001
+greenhouse gases punk
+8888
+1001
+Samuel L. Jackson
+Rockafella Records
+book
+111111
+gangnam style howto
+0.00
+9999
+me
+baohaus
+book
+999031
+DONALD TRUMP IS PREsidENT
+900.99
+8000
+Donald Clinton
+youtube
+book
+009090
+Book of the BREAD
+10.00
+1234
+Me
+Scholastic
+electronics
+564123
+iPod Classic 16GB
+5.12
+1290
+Apple
+book
+333444
+Book Bag 69
+6969.69
+3000
+FEI SONG
+UoG SoCS
