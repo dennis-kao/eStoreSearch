@@ -15,7 +15,7 @@ Keywords should be separated by spaces.
 ======================================
 Compilation and execution
 ======================================
-Navigate to the root directory (/dkao_a3) and execute these lines of code:
+Navigate to the root directory (/eStoreSearch) and execute these lines of code:
 
 Compile line: 
 javac estoresearch/product.java estoresearch/book.java estoresearch/electronics.java estoresearch/estoresearch.java estoresearch/mainWindow.java
