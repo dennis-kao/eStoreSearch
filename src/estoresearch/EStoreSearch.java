@@ -149,7 +149,7 @@ public class EStoreSearch {
                     wordIndex = new ArrayList<Integer>(hashIndex.get(token[i]));
                 }
 
-                for (int j = 0; j < products.size(); i++) {
+                for (int j = 0; j < products.size(); j++) {
                     if (wordIndex.contains(j) && pastIndex.contains(j)) {
                         futureIndex.add(j);
                     }
